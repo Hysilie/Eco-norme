@@ -69,5 +69,5 @@ window.addEventListener("scroll", () =>{
                 sub3.style.position= "absolute";
                 nav.style.background= "none"
                 nav.style.borderRadius= "none"
-                nav.style.color="#333"
+                nav.style.color=""
         }});
